@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Node modules (if you later add npm packages)
+node_modules/
+
+# Build files / cache
+dist/
+build/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
